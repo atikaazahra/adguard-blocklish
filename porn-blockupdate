@@ -1,13 +1,21 @@
 ! Description: Open-source whitelish
 ! Last modified: 2026-08-03
 ! Tambahan blokir Daftar blokir utama  https://nsfw.oisd.nl/
-||itotolink.*^$dnsrewrite=NOERROR;;
-||baca.co.id^$dnsrewrite=NOERROR;;
+
 ||itotolink.net^$dnsrewrite=NOERROR;;
+||*itotolink.*^$dnsrewrite=NOERROR;;
+||baca.co.id^$dnsrewrite=NOERROR;;
 ||al-array.com^$dnsrewrite=NOERROR;;
 ||telkom.net^$dnsrewrite=NOERROR;;
 ||tr069-avs.firstmedia.com^$dnsrewrite=NOERROR;;
-||jonitv.com^
+||xhamster.com^$dnsrewrite=NOERROR;;
+||neofap.com^$dnsrewrite=NOERROR;;
+||xindonesian.com^$dnsrewrite=NOERROR;;
+||xxxfollow.com^$dnsrewrite=NOERROR;;
+||jonitv.com^$dnsrewrite=NOERROR;;
+||stripchat.com^$dnsrewrite=NOERROR;;
+||xnxx.com^$dnsrewrite=NOERROR;;
+||*blowjob*^
 ||*kingbokep*^
 ||*kingbokeptv*^
 ||*bokep*^
@@ -36,8 +44,6 @@
 ||dirtymaps.com^
 ||duniastreaming.net^
 ||app.duniastreaming.net^
-||xxxfollow.com^
-||www.xxxfollow.com^
 ||en-pornhub.com^
 ||www.en-pornhub.com^
 ||pornxxx.tube^
