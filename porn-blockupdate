@@ -1,13 +1,12 @@
 ! Description: Open-source whitelish
 ! Last modified: 2026-08-26
 ! Tambahan blokir Daftar blokir utama  https://nsfw.oisd.nl/
+
 ||itotolink.net^$dnsrewrite=NOERROR;;
-||*itotolink.*^$dnsrewrite=NOERROR;;
 ||baca.co.id^$dnsrewrite=NOERROR;;
 ||al-array.com^$dnsrewrite=NOERROR;;
 ||telkom.net^$dnsrewrite=NOERROR;;
 ||tr069-avs.firstmedia.com^$dnsrewrite=NOERROR;;
-||xhamster.com^$dnsrewrite=NOERROR;;
 ||neofap.com^$dnsrewrite=NOERROR;;
 ||xindonesian.com^$dnsrewrite=NOERROR;;
 ||xxxfollow.com^$dnsrewrite=NOERROR;;
@@ -17,6 +16,10 @@
 ||tubecup.net^$dnsrewrite=NOERROR;;
 ||tsyndicate.com^$dnsrewrite=NOERROR;;
 ||ei.phncdn.com^$dnsrewrite=NOERROR;;
+||myavlive.com^$dnsrewrite=NOERROR;;
+||*xhamster*^$dnsrewrite=NOERROR;;
+||*itotolink*^$dnsrewrite=NOERROR;;
+||*stripchat*^
 ||*blowjob*^
 ||*kingbokep*^
 ||*kingbokeptv*^
