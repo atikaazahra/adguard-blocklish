@@ -1,14 +1,12 @@
 ! Description: Open-source whitelish
 ! Last modified: 2026-08-03
 ! Tambahan blokir Daftar blokir utama  https://nsfw.oisd.nl/
-||*itotolink*^
-||itotolink.net^$important
-||baca.co.id^
-||baca.co.id^$important
-||al-array.com^
-||al-array.com^$important
-||telkom.net^
-||telkom.net^$important
+||itotolink.*^$dnsrewrite=NOERROR;;
+||baca.co.id^$dnsrewrite=NOERROR;;
+||itotolink.net^$dnsrewrite=NOERROR;;
+||al-array.com^$dnsrewrite=NOERROR;;
+||telkom.net^$dnsrewrite=NOERROR;;
+||tr069-avs.firstmedia.com^$dnsrewrite=NOERROR;;
 ||jonitv.com^
 ||*kingbokep*^
 ||*kingbokeptv*^
