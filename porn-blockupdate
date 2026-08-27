@@ -1,5 +1,5 @@
 ! Description: Open-source whitelish
-! Last modified: 2026-08-26
+! Last modified: 2026-08-27
 ! Tambahan blokir Daftar blokir utama  https://nsfw.oisd.nl/
 
 ||itotolink.net^$dnsrewrite=NOERROR;;
@@ -42,7 +42,7 @@
 ||*jav*^$important
 ||*memek*^
 ||*indo18*^
-||*tante*^
+||*tante*^$dnsrewrite=NOERROR;;
 ||*filmeleporn*^
 ||*bluefilm*^
 ||*bluesex*^
@@ -52,12 +52,14 @@
 ||*eporner*^$important
 ||*pornhub*^$important
 ||*dicrotin*^
-||*janda*^
+||*janda*^$dnsrewrite=NOERROR;;
 ||*kontol*^
 ||*tantebinal*^
 ||*moncrot*^
+||*dicrotin*^
 ||*indo18plus*^
 ||*indovidplus*^
+||playmogo.com^dnsrewrite=NOERROR;;
 ||dirtymaps.com^
 ||duniastreaming.net^
 ||app.duniastreaming.net^
@@ -116,3 +118,9 @@
 ||xindonesian.com^$important
 ||xxxfollow.com^$important
 ||neofap.com^$important
+||henvids.com^$dnsrewrite=NOERROR;;
+||*hentai*^$dnsrewrite=NOERROR;;
+||*xnxx*^$dnsrewrite=NOERROR;;
+||*sex*^$dnsrewrite=NOERROR;;
+||chaturbate.com^$dnsrewrite=NOERROR;;
+||*brazzers*^$dnsrewrite=NOERROR;;
