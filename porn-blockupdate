@@ -1,5 +1,5 @@
 ! Description: Open-source whitelish
-! Last modified: 2026-08-27
+! Last modified: 2026-08-29
 ! Tambahan blokir Daftar blokir utama  https://nsfw.oisd.nl/
 
 ||itotolink.net^$dnsrewrite=NOERROR;;
@@ -147,3 +147,4 @@
 ||playmogo.com^$dnsrewrite=NOERROR;;
 ||youperv.com^$dnsrewrite=NOERROR;;
 ||kigogaf.com^$dnsrewrite=NOERROR;;
+||x-fetish.tube^$dnsrewrite=NOERROR;;
