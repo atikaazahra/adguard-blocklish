@@ -100,6 +100,7 @@
 @||emis.kemenag.go.id^
 @||kemenag.go.id^
 @||pacitankab.go.id^
+@||dindik.pacitankab.go.id^
 ||xhamster.com^$dnsrewrite=NOERROR;;
 ||pornhub.com^$dnsrewrite=NOERROR;;
 ||rule34.xxx^$dnsrewrite=NOERROR;;
