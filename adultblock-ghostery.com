@@ -1,6 +1,6 @@
 ! Description: Open-source whitelish
-! Last modified: 2026-08-28
-! Adult blocklish
+! Last modified: 2026-08-30
+! Adult blocklish and whitlish domain
 ! Source from  https://www.ghostery.com/whotracksme/websites
 
 @||facebook.com^
@@ -90,17 +90,54 @@
 @||wikipedia.org^
 @||github.com^
 @||gitlab.com^
-@||pajak.go.id^
 @||djp.go.id^
-@||kemenkeu.go.id^
 @||sse.pajak.go.id^
-@||amazonaws.com^
 @||siska.kemenag.go.id^
 @||simpatika.kemenag.go.id^
 @||emis.kemenag.go.id^
 @||kemenag.go.id^
 @||pacitankab.go.id^
 @||dindik.pacitankab.go.id^
+@||akadns.net^
+@||wps.com^
+@||kwai.net^
+@||elementor.com^
+@||scopely.io^
+@||appsflyersdk.com^
+@||xiaomi.com^
+@||alphonso.tv^
+@||windowsupdate.com^
+@||push.apple.com^
+@||whatsapp.net^
+@||fb.com^
+@||fbsbx.com^
+@||tiktokv.com^
+@||ttcdn.com^
+@||byteoversea.com^
+@||google.com^
+@||google.co.id^
+@||googlesyndication.com^
+@||ggpht.com^
+@||googleusercontent.com^
+@||firebaseio.com^
+@||yahoo.com^
+@||att.yahoo.com^
+@||zoho.com^
+@||mail.ru^
+@||protonmail.com^
+@||canva.com^
+@||adobe.com^
+@||dropbox.com^
+@||onedrive.com^
+@||belajar.id^
+@||kemendikbud.go.id^
+@||kemdikbud.go.id^
+@||nu.or.id^
+@||muhammadiyah.or.id^
+@||uin-suka.ac.id^
+@||telkomsel.com^
+@||indosat.com^
+@||xlaxiata.com^
 ||xhamster.com^$dnsrewrite=NOERROR;;
 ||pornhub.com^$dnsrewrite=NOERROR;;
 ||rule34.xxx^$dnsrewrite=NOERROR;;
