@@ -154,6 +154,14 @@
 ||*phncdn.com^$dnsrewrite=NXDOMAIN;;
 ||*xhcdn.com^$dnsrewrite=NXDOMAIN;;
 ||tsyndicate.com^$dnsrewrite=NXDOMAIN;;
+||juicyads.com^$dnsrewrite=NXDOMAIN;;
+||tsyndicate.com^$dnsrewrite=NXDOMAIN;;
+||xhcdn.com^$dnsrewrite=NXDOMAIN;;
+||strpst.com^$dnsrewrite=NXDOMAIN;;
+||bongacams7.com^$dnsrewrite=NXDOMAIN;;
+||xxxbunker.com^$dnsrewrite=NXDOMAIN;;
+||swipey.ai^$dnsrewrite=NXDOMAIN;;
+||xhfanclub.com^$dnsrewrite=NXDOMAIN;;
 
 ||tsyndicate.com^$important
 ||*baca.co.id^$important
@@ -306,3 +314,11 @@
 ||img.streamruby.com^$important
 ||*phncdn.com^$important
 ||*xhcdn.com^$important
+||juicyads.com^$important
+||tsyndicate.com^$important
+||xhcdn.com^$important
+||strpst.com^$important
+||bongacams7.com^$important
+||xxxbunker.com^$important
+||swipey.ai^$important
+||xhfanclub.com^$important
