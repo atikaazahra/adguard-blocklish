@@ -311,7 +311,7 @@
 ||shalove.net^$dnsrewrite=NOERROR;;
 ||fap-nation.org^$dnsrewrite=NOERROR;;
 ||theync.com^$dnsrewrite=NOERROR;;
-||multporn.net
+||multporn.net^$dnsrewrite=NOERROR;;
 ||pornoxo.com^$dnsrewrite=NOERROR;;
 ||melonbooks.co.jp^$dnsrewrite=NOERROR;;
 ||indexxx.com^$dnsrewrite=NOERROR;;
