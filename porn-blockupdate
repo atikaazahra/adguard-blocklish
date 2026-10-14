@@ -162,7 +162,19 @@
 ||xxxbunker.com^$dnsrewrite=NXDOMAIN;;
 ||swipey.ai^$dnsrewrite=NXDOMAIN;;
 ||xhfanclub.com^$dnsrewrite=NXDOMAIN;;
+||missavtv.com^$dnsrewrite=NXDOMAIN;;
+||oray.com^$dnsrewrite=NXDOMAIN;;
+||xham.live^$dnsrewrite=NXDOMAIN;;
+||.xxxjmp.com^$dnsrewrite=NXDOMAIN;;
+||.xxxviijmp.com^$dnsrewrite=NXDOMAIN;;
+||superchat.live^$dnsrewrite=NXDOMAIN;;
 
+||missavtv.com^$important
+||oray.com^$important
+||xham.live^$important
+||.xxxjmp.com^$important
+||.xxxviijmp.com^$important
+||superchat.live^$important
 ||tsyndicate.com^$important
 ||*baca.co.id^$important
 ||*al-array.com^$important
