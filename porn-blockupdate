@@ -3,6 +3,25 @@
 ! Tambahan Daftar blokir utama
 ! update-by-zrtonic
 
+||api.al-array.com^$important
+||api.baca.co.id^$important
+||js.juicyads.com^$important
+||img.cdn.house^$important
+||notification.tubecup.net^$important
+||static.api.baca.co.id^$important
+||ads.baca.co.id^$important
+||s.pemsrv.com^$important
+||mp4-cdn77.xnxx-cdn.com^$important
+||ei.phncdn.com^$important
+||tsyndicate.com^$important
+||api.coin.baca.co.id^$important
+||assets.strpst.com^$important
+||static-lvlt.xhcdn.com^$important
+||bokepone.com^$important
+||thumb-cdn77.xnxx-cdn.com^$important
+||missav.ws^$important
+||xapi.juicyads.com^$important
+||static-ah.xhcdn.com^$important
 ||*.xxxvi*^$important
 ||*.xxxjmp*^$important
 ||baraag.net*^$important
