@@ -44,11 +44,9 @@
 ||supjav.com^$important
 ||*.juicyads.com^$important
 ||*.shalltry.com^$important
-||*.al-array.com^$important
-||*.baca.co.id.*^$important
-||*.tendawifi.*^$important
+||al-array.com^$important
+||baca.co.id.*^$important
 ||tendawifi.com^$important
-||*.itotolink.*^$important
 ||itotolink.net^$important
 ||*.xxxvi*^$important
 ||*.xxxjmp*^$important
