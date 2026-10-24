@@ -1,6 +1,5 @@
 ! Description: Open-source-all
-! Last modified: 2026-10-24
-! Tambahan Daftar blokir utama
+! Last modified: 2026-10-24 10:57 WIB
 ! update-by-zrtonic
 
 ||rcvlink.com^$important
@@ -39,10 +38,15 @@
 ||www.pornosuchmaschine.net^$important
 ||*.juicyads.com^$important
 ||*.shalltry.com^$important
+||shalltry.com^$important
 ||*.al-array.com^$important
+||al-array.com^$important
 ||*.baca.co.id.*^$important
+||baca.co.id^$important
 ||*.tendawifi.*^$important
+||tendawifi.com^$important
 ||*.itotolink.*^$important
+||itotolink.net^$important
 ||*.xxxvi*^$important
 ||*.xxxjmp*^$important
 ||*.xhcdn.com^$important
