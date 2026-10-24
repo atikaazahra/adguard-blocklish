@@ -1,8 +1,14 @@
 ! Description: Open-source-all
-! Last modified: 2026-10-23
+! Last modified: 2026-10-24
 ! Tambahan Daftar blokir utama
 ! update-by-zrtonic
 
+||rcvlink.com^$important
+||mgid.com^$important
+||ap.mobhey.com^$important
+||*.shalltry.com^$important
+||6w9hps.com^$important
+||eajzzxhro.com^$important
 ||*.al-array.com^$important
 ||js.juicyads.com^$important
 ||img.cdn.house^$important
