@@ -1,10 +1,10 @@
 ! Description: Open-source-all
-! Last modified: 2026-10-25 02:23 WIB
+! Last modified: 2026-10-25 08:31 WIB
 ! update-by-zrtonic
+!https://github.com/atikaazahra/adguard-blocklish/blob/main/porn-blockupdate
 
 ||tnt-ea.com^$important
 ||trenvylo.xyz^$important
-||*.firstmedia.com^$important
 ||ev.mc.sve.cc^$important
 ||*.maribacaberita.com^$important
 ||oceanicdreamcove.com^$important
@@ -31,7 +31,6 @@
 ||static-ah.xhcdn.com^$important
 ||baraag.net^$important
 ||missav.ws^$important
-||js.juicyads.com^$important
 ||www.njav.com^$important
 ||a.pemsrv.com^$important
 ||assets.strpst.com^$important
@@ -47,6 +46,8 @@
 ||*.baca.co.id^$important
 ||*.tendawifi.com^$important
 ||*.itotolink.net^$important
+||*.firstmedia.com^$important
+||*.telkom.net^$important
 ||*.xxxvi*^$important
 ||*.xxxjmp*^$important
 ||*.xhcdn.com^$important
@@ -70,7 +71,6 @@
 ||*porn*^$important
 ||*eporner*^$important
 ||*pornhub*^$important
-||*dicrotin*^$important
 ||*janda*^$important
 ||*kontol*^$important
 ||*tantebinal*^$important
@@ -87,14 +87,12 @@
 ||*sex*^$important
 ||*hentai^$important
 ||*brazzers*^$important
-||*juicyads.com^$important
 ||*adul*^$important
 ||*adult*^$important
 ||*phncdn.com^$important
 ||*.xhcdn.com^$important
 ||*phncdn.com^$important
 ||*xhcdn.com^$important
-||telkom.net^$important
 ||neofap.com^$important
 ||xindonesian.com^$important
 ||xxxfollow.com^$important
@@ -201,7 +199,6 @@
 ||oray.com^$important
 ||xham.live^$important
 ||superchat.live^$important
-||tr069-avs.firstmedia.com^$important
 ||neofap.com^$important
 ||xindonesian.com^$important
 ||xxxfollow.com^$important
