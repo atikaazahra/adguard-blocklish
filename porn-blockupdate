@@ -43,10 +43,10 @@
 ||supjav.com^$important
 ||*.juicyads.com^$important
 ||*.shalltry.com^$important
-||al-array.com^$important
-||baca.co.id.*^$important
-||tendawifi.com^$important
-||itotolink.net^$important
+||*.al-array.com^$important
+||*.baca.co.id^$important
+||*.tendawifi.com^$important
+||*.itotolink.net^$important
 ||*.xxxvi*^$important
 ||*.xxxjmp*^$important
 ||*.xhcdn.com^$important
