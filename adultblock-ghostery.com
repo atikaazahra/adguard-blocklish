@@ -1,8 +1,12 @@
 ! Description: Open-source whitelish
-! Last modified: 2026-10-23
+! Last modified: 2026-10-27
 ! Adult blocklish and whitlish domain
 ! Source from  https://www.ghostery.com/whotracksme/websites
 
+@@||.tiktokcdn.com^
+@@||.tiktokv.com^
+@@||.tiktok.com^
+@@||.fbcdn.net^
 @||akadns.net^
 @||akamaized.net^
 @||akamai.net^
