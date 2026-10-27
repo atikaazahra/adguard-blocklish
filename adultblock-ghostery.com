@@ -3,6 +3,12 @@
 ! Adult blocklish and whitlish domain
 ! Source from  https://www.ghostery.com/whotracksme/websites
 
+@@||xendit.co^$important
+@@||shopeepay.co.id^$important
+@@||samsungcloud.com^$important
+@@||gmail.com^$important
+@@||shopee.io^$important
+@@||xlaxiata.co.id^$important
 @@||akadns.net^$important
 @@||akamaized.net^$important
 @@||akamai.net^$important
