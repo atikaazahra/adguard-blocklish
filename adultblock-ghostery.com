@@ -1,4 +1,4 @@
-! Description: Open-source whitelish
+! Description: Open-source whitelish domain
 ! Last modified: 2026-10-27
 ! Adult blocklish and whitlish domain
 ! Source from  https://www.ghostery.com/whotracksme/websites
@@ -203,3 +203,13 @@
 @@||shopeemobile.com^$important
 @@||susercontent.com^$important
 @@||lazcdn.com^$important
+@@||facebook.com^$important
+@@||shopee.sg^$important
+@@||kwai.com^$important
+@@||capcutapi.com^$important
+@@||kwaipros.com^$important
+@@||dns.google^$important
+@@||snackvideo.in^$important
+@@||akamai.com^$important
+@@||kwai-pro.com^$important
+@@||pool.ntp.org^$important
