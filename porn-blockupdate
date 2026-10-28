@@ -1,8 +1,7 @@
-! Description: Open-source-all-blocked-domain
-! Last modified: 2026-10-27 15:55
+! Description: all-blocked-domain
+! Last modified: 2026-10-28
 ! https://github.com/atikaazahra/adguard-blocklish
 ! add key supporters
-! https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn-only/hosts
 
 ||*.maribacaberita.com^$important
 ||*.strpst.com^$important
@@ -65,6 +64,7 @@
 ||*bfae4ac9.top^$important
 ||*tubecup.net^$important
 ||*tantemalam*^$important
+||qzwxrtyk.com^$important
 ||tnt-ea.com^$important
 ||trenvylo.xyz^$important
 ||ev.mc.sve.cc^$important
