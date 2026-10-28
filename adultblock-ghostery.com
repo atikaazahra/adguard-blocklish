@@ -2,6 +2,16 @@
 ! Last modified: 2026-10-28
 ! https://github.com/atikaazahra/adguard-blocklish
 
+@@||ptyg.gitv.tv^$important
+@@||cloudflare.net^$important
+@@||shopee.com^$important
+@@||linkedin.com^$important
+@@||skype.com^$important
+@@||tencent-cloud.net^$important
+@@||tencent.com^$important
+@@||vidio.com^$important
+@@||wikimedia.org^$important
+@@||kemendikdasmen.go.id^$important
 @@||lazada.com^$important
 @@||tiktokshop.com^$important
 @@||kemensos.go.id^$important
