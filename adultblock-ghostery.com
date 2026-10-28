@@ -2,6 +2,13 @@
 ! Last modified: 2026-10-28
 ! https://github.com/atikaazahra/adguard-blocklish
 
+@@||lazada.com^$important
+@@||tiktokshop.com^$important
+@@||kemensos.go.id^$important
+@@||i.mi.com^$important
+@@||mi.co.id^$important
+@@||xiaomi.com^$important
+@@||lazada.sg^$important
 @@||heytapmobi.com^$important
 @@||heytapmobile.com^$important
 @@||pinterest.com^$important
@@ -12,7 +19,6 @@
 @@||xendit.co^$important
 @@||shopeepay.co.id^$important
 @@||samsungcloud.com^$important
-@@||gmail.com^$important
 @@||shopee.io^$important
 @@||xlaxiata.co.id^$important
 @@||akadns.net^$important
