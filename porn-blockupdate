@@ -1,8 +1,22 @@
 ! Description: all-blocked-domain
-! Last modified: 2026-10-29
+! Last modified: 2026-10-31
 ! https://github.com/atikaazahra/adguard-blocklish
 ! add key supporters
 
+||*.192.168.1.1^$important
+/192\.168\.1\.1$/$important
+||irbxwtgxhh.net^$important
+||d6b307bde8.com^$important
+||e052b1ed6a.com^$important
+||475d3ea23c.com^$important
+||xlskff.com^$important
+||sekgbtwo.com^$important
+||hakgzqjsnbzm.online^$important
+||tslomhfys.com^$important
+||a7q4ujfnrr.soju88e.pics^$important
+||frxqh6a888d1406a.com^$important
+||qhvlassx.bcbaqfsb.cc^$important
+||piqovusv.bcbaqfsb.cc^$important
 ||xyz3524.com^$important
 ||x1skff.com^$important
 ||n0qq3z.com^$important
@@ -16,24 +30,19 @@
 ||yxtkds.com^$important
 ||caxvhc1505fa2742.top^$important
 ||brwqpnykjo.net^$important
-||*c1505fa2742.top^$important
+||c1505fa2742.top^$important
 ||img.7392jsloii23sjkk.com^$important
-||o2syic.0791qq.cn^$important
-||s16-12864.ap4r.com^$important
 ||f2iu89f278shjl.com^$important
-||*7392jsloii23sjkk.com^$important
-||*1505fa2742.top^$important
-||static.v2kyu1kjr.com^$important
+||7392jsloii23sjkk.com^$important
+||1505fa2742.top^$important
 ||static.hj2k2.com^$important
-||*1be181a716d.net^$important
-||mc5t7ysxpwzegkdsejkt.eu.cc.lan^$important
+||1be181a716d.net^$important
 ||api.zkpldnxrt.com^$important
 ||wluwplyh.biz^$important
 ||h5.btywrvcf.com^$important
 ||700ulti.ulti700win.online^$important
 ||znwbniskf.biz^$important
 ||bundle.tl1f48h1.com^$important
-||xggd&f|x&gzo^$important
 ||ereplfx.biz^$important
 ||m3.ttjperfect.com^$important
 ||nwdnxrd.biz^$important
@@ -81,7 +90,6 @@
 ||kt4wza6ixmsodu.com^$important
 ||*j9de87780a5d.com^$important
 ||*2940637fafa.com^$important
-||mc5t7ysxpwzegkdsejkt.eu.cc^$important
 ||e0caa5dafb.18cdabfcfb.com^$important
 ||vb33ijt290skpo.com^$important
 ||*.maribacaberita.com^$important
