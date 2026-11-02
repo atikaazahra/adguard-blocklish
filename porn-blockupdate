@@ -1,8 +1,38 @@
 ! Description: all-blocked-domain
-! Last modified: 2026-10-31
+! Last modified: 2026-11-02
 ! https://github.com/atikaazahra/adguard-blocklish
 ! add key supporters
 
+||rbkan8d40dcb4cb2.top^$important
+||qzifhbpfa.cc^$important
+||0c46b.agavdjp.cc^$important
+||guvurtqid.cc^$important
+||kfwtizvm.exxzbatp.cc^$important
+||gqisiytrxf.net^$important
+||swwoittlv.cc^$important
+||dddvwqzj.cc^$important
+||vzbdh8d40dcb4cb2.top^$important
+||e9fgsi.vbs10qd9.com^$important
+||c2b3d.s8pa9zb2.com^$important
+||k2z7b5q2.com^$important
+||999sl234abc.com^$important
+||azhkthg1.com^$important
+||ppgtzgcgep.net^$important
+||bcytua.cc^$important
+||jvlajf9b4a773f51.com^$important
+||hpjuce74d9e14f59.com^$important
+||iakijf9b4a773f51.com^$important
+||eykkue74d9e14f59.com^$important
+||ddkmof9b4a773f51.com^$important
+||vroqxe74d9e14f59.com^$important
+||xhpnif9b4a773f51.com^$important
+||dfbzve74d9e14f59.com^$important
+/^[a-z0-9-]+b4a773f51\.com$/$important
+/^[a-z0-9-]+4d9e14f59\.com$/$important
+/^[a-z0-9-]+d40dcb4cb2\.top$/$important
+/^[a-z0-9-]+ctuslwqz\.com$/$important
+/^[a-z0-9-]+45owu68o\.com$/$important
+/^[a-z0-9-]+\.bcytua\.cc$/$important
 ||*.192.168.1.1^$important
 /192\.168\.1\.1$/$important
 ||irbxwtgxhh.net^$important
