@@ -1,5 +1,5 @@
 ! Description: all-blocked-domain
-! Last modified: 2026-11-06
+! Last modified: 2026-11-08
 ! https://github.com/atikaazahra/adguard-blocklish
 ! add key supporters
 
@@ -8,6 +8,23 @@
 /^[a-z0-9-\.]+\.bcytua\.(com|net|org|info|top|cc|xyz|co\.id|id|icu|dev|oi|pro)$/$important
 /^[a-z0-9-\.]+(ya27fw\.k6zix6|fj2bdvd3ocqznm)\.(com|net|org|info|top|cc|xyz|co\.id|id|icu|dev|oi|pro)$/$important
 /^dog\.[a-z0-9-]+\.xyz$/$important
+/192\.168\.1\.1$/$important
+/^[a-z0-9-]+oooo{5,}gle\.com$/$important
+||fakevivo.com.cn^$important
+||ffxsso.com^$important
+||hivexdsp.com^$important
+||avtub.net^$important
+||adstub.net^$important
+||indoav.com^$important
+||dada.fans^$important
+||sbbol1011play.sbs^$important
+||playaindg12.xyz^$important
+||todotttdk576.cfd^$important
+||asupanrare.com^$important
+||2696515443-pr0fscgp.bttss.com^$important
+||oborozukp.vip^$important
+||gasipedibexide.com^$important
+||he2o9t.com^$important
 ||kelasmalam.com^$important
 ||kupumalam.com^$important
 ||*.maribacaberita.com^$important
