@@ -3,13 +3,22 @@
 ! https://github.com/atikaazahra/adguard-blocklish
 ! add key supporters
 
-/^[a-z0-9-\.]+[a-f0-9]{8,}\.(com|net|org|info|top|cc|xyz|co\.id|id|icu|dev|oi|pro)$/$important
-/^[a-z0-9-\.]+(qzifhbpfa|agavdjp|guvurtqid|exxzbatp|gqisiytrxf|swwoittlv|dddvwqzj|ctuslwqz|hakgzqjsnbzm|tslomhfys|sekgbtwo|xlskff|froitaffiky|grabsfdb|cxl204oump|gphovqlzvc|45owu68o|kxsdxgifig|rbkan8d40dcb4cb2|vzbdh8d40dcb4cb2|vbs10qd9|s8pa9zb2|k2z7b5q2|999sl234abc|azhkthg1|ppgtzgcgep|irbxwtgxhh|soju88e|frxqh6a888d1406a|bcbaqfsb|xyz3524|x1skff|n0qq3z|wdjfh|afafb|kndvy|k9l2jm8q|yytsiy|gtxvdqvuweqs|93jk0rvj|yxtkds|c1505fa2742|brwqpnykjo|7392jsloii23sjkk|f2iu89f278shjl|hj2k2|zkpldnxrt|wluwplyh|btywrvcf|ulti700win|znwbniskf|tl1f48h1|ereplfx|ttjperfect|nwdnxrd|kcyvxytog|yvgnyrag|pgcapsjwkt|598282485421|4vu0xftaxsct7k5|jdcylvkpky|868ecc605e|xzxut8ce2403d5c8|74d9e14f59|b4a773f51|4d9e14f59|d40dcb4cb2|9b4a773f51|d6b307bde8|e052b1ed6a|475d3ea23c|1505fa2742|j9de87780a5d|2940637fafa|yckquc93bfae4ac9|182ab3e3dc|1be181a716d|prnoj4et58ypyka|juyn4i0k715o33r|mxhef087hq9r5nx)\.(com|net|org|info|top|cc|xyz|co\.id|id|icu|dev|oi|pro)$/$important
-/^[a-z0-9-\.]+\.bcytua\.(com|net|org|info|top|cc|xyz|co\.id|id|icu|dev|oi|pro)$/$important
-/^[a-z0-9-\.]+(ya27fw\.k6zix6|fj2bdvd3ocqznm)\.(com|net|org|info|top|cc|xyz|co\.id|id|icu|dev|oi|pro)$/$important
+! =======================================================
+! 1. POLA UNIVERSAL (Hash Hex & Angka Panjang)
+! =======================================================
+/^[a-z0-9-\.]+[a-f0-9]{8,}\.(com|net|org|info|top|cc|xyz|co\.id|id|icu|dev|oi|pro|online)$/$important
+! =======================================================
+! 2. POLA GRUP SPESIFIK (Semua domain acak digabung di sini)
+! =======================================================
+/^[a-z0-9-\.]+(qzifhbpfa|agavdjp|guvurtqid|exxzbatp|gqisiytrxf|swwoittlv|dddvwqzj|ctuslwqz|hakgzqjsnbzm|tslomhfys|sekgbtwo|xlskff|froitaffiky|grabsfdb|cxl204oump|gphovqlzvc|45owu68o|kxsdxgifig|rbkan8d40dcb4cb2|vzbdh8d40dcb4cb2|vbs10qd9|s8pa9zb2|k2z7b5q2|999sl234abc|azhkthg1|ppgtzgcgep|irbxwtgxhh|soju88e|frxqh6a888d1406a|bcbaqfsb|xyz3524|x1skff|n0qq3z|wdjfh|afafb|kndvy|k9l2jm8q|yytsiy|gtxvdqvuweqs|93jk0rvj|yxtkds|c1505fa2742|brwqpnykjo|7392jsloii23sjkk|f2iu89f278shjl|hj2k2|zkpldnxrt|wluwplyh|btywrvcf|ulti700win|znwbniskf|tl1f48h1|ereplfx|ttjperfect|nwdnxrd|kcyvxytog|yvgnyrag|pgcapsjwkt|598282485421|4vu0xftaxsct7k5|jdcylvkpky|868ecc605e|xzxut8ce2403d5c8|74d9e14f59|b4a773f51|4d9e14f59|d40dcb4cb2|9b4a773f51|d6b307bde8|e052b1ed6a|475d3ea23c|1505fa2742|j9de87780a5d|2940637fafa|yckquc93bfae4ac9|182ab3e3dc|1be181a716d|prnoj4et58ypyka|juyn4i0k715o33r|mxhef087hq9r5nx|iuxrdplfg|6j1xsdgxjuw|u613sxft1|lyoyrqeqjtjf|925dg404vmmg|zi389vvu4j|zjukj6yrux50|u739vvu4f|kgx6x8ow25hw|z389vvu3t5|savbdv|csmz21wgr2x|crotvids|xyzchat|76k424vhek|4vu0xftaxsct7k5|qxq9z2pu)\.(com|net|org|info|top|cc|xyz|co\.id|id|icu|dev|oi|pro|online)$/$important
+! =======================================================
+! 3. POLA STRUKTUR KHUSUS, GOOGLE PALSU & ARTEFAK
+! =======================================================
+/^[a-z0-9-\.]+\.bcytua\.(com|net|org|info|top|cc|xyz|co\.id|id|icu|dev|oi|pro|online)$/$important
+/^[a-z0-9-\.]+(ya27fw\.k6zix6|fj2bdvd3ocqznm)\.(com|net|org|info|top|cc|xyz|co\.id|id|icu|dev|oi|pro|online)$/$important
 /^dog\.[a-z0-9-]+\.xyz$/$important
+/^[a-z0-9-\.]+o{5,}gle\.com$/$important
 /192\.168\.1\.1$/$important
-/^[a-z0-9-]+oooo{5,}gle\.com$/$important
 ||fakevivo.com.cn^$important
 ||ffxsso.com^$important
 ||hivexdsp.com^$important
