@@ -1,5 +1,5 @@
 ! Description: all-blocked-domain
-! Last modified: 2026-11-15
+! Last modified: 2026-11-20
 ! https://github.com/atikaazahra/adguard-blocklish
 ! add key supporters
 !
@@ -7,8 +7,21 @@
 /^[a-z0-9-\.]+\.bcytua\.(com|net|org|info|top|cc|xyz|co\.id|id|icu|dev|io|pro|online)$/$important
 /^[a-z0-9-\.]+(ya27fw\.k6zix6|fj2bdvd3ocqznm)\.(com|net|org|info|top|cc|xyz|co\.id|id|icu|dev|io|pro|online)$/$important
 /^[a-z0-9-\.]+o{5,}gle\.com$/$important
-!
 /192\.168\.1\.1$/$important
+!
+||xyqdy03evnb.com^$important
+||\(null\)register.\(null\)^$important
+||zjukj6yrux50.co^$important
+||8rsc3qtqvspk.dev^$important
+||mef4bot7r2gw3avod.top^$important
+||aenbt7a0fed3cf50.com^$important
+||k6zix6.com^$important
+||yfez8stioy7.net^$important
+||155xfinishpy92x6yard.xyz^$important
+||5ti6te9rdjn.com^$important
+||btz8f79rpw.co^$important
+||fzxr2ykg0i36.dev^$important
+||8b358ik9.co^$important
 ||fakevivo.com.cn^$important
 ||ffxsso.com^$important
 ||hivexdsp.com^$important
@@ -193,7 +206,6 @@
 ||341cb134caf.com^$important
 ||cercle-prive.site^$important
 ||clctr.ltguevmavv.com^$important
-||ndcpp-os.com^$important
 ||posafecto.com^$important
 ||6ctuslwqz.com^$important
 ||jnetotovanson.com^$important
