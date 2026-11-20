@@ -6,6 +6,7 @@
 /^[a-z0-9-\.]+o{5,}gle\.com$/$important
 /192\.168\.1\.1$/$important
 !
+||drtdzrixqzemyhfj.net^$important
 ||xyqdy03evnb.com^$important
 ||zjukj6yrux50.co^$important
 ||8rsc3qtqvspk.dev^$important
@@ -231,7 +232,6 @@
 ||tlxbw.xyz^$important
 ||falconnet.app^$important
 ||hyperotics.com^$important
-||kaie.net^$important
 ||cjcygl.com^$important
 ||jchtv.com^$important
 ||gotooem.com^$important
