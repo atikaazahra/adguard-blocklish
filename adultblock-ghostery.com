@@ -1,7 +1,11 @@
 ! Description: Open-source all whitelist domain (Cleaned & Updated)
-! Last modified: 2026-11-15
+! Last modified: 2026-11-21
 ! https://github.com/atikaazahra/adguard-blocklish
 
+@@||gvt1.com
+@@||gvt2.com
+@@||facebook.net
+@@||rbxcdn.com
 @@||akadns.net^$important
 @@||akamai.com^$important
 @@||akamai.net^$important
