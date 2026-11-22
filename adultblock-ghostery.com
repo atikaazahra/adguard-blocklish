@@ -1,7 +1,26 @@
 ! Description: Open-source all whitelist domain (Cleaned & Updated)
-! Last modified: 2026-11-21
+! Last modified: 2026-11-23
 ! https://github.com/atikaazahra/adguard-blocklish
 
+@@||gabrielangeldesign.com^$important
+@@||shareservice.net^$important
+@@||realsrv.com^$important
+@@||cloudflareok.com^$important
+@@||culinaryagents.com^$important
+@@||biologistnews.biz^$important
+@@||easytomessage.com^$important
+@@||sendbuilding.dev^$important
+@@||landingsplash.xyz^$important
+@@||fozekikikiminu.com^$important
+@@||rebootedbody.com^$important
+@@||houseprecheck.com^$important
+@@||publicrecordsapi.com^$important
+@@||cintaistimewah.com^$important
+@@||cloudflarecp.com^$important
+@@||cloudflareportal.com^$important
+@@||google-analytics.com^$important
+@@||mayips.com^$important
+@@||steamboatbooks.com^$important
 @@||pacitanku.com
 @@||pacitankab.go.id
 @@||gvt1.com
