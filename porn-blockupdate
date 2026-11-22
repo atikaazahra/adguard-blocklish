@@ -1,5 +1,5 @@
 ! Description: all-blocked-domain
-! Last modified: 2026-11-20
+! Last modified: 2026-11-23
 ! https://github.com/atikaazahra/adguard-blocklish
 ! add key supporters
 !
@@ -240,7 +240,6 @@
 ||rollserver.xyz^$important
 ||cyberprotector.online^$important
 ||tk0x1.com^$important
-||cbphe.com^$important
 ||heibao.bet^$important
 ||cdnppp889.com^$important
 ||jyotclubfungback.com^$important
