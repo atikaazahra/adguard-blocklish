@@ -2,6 +2,8 @@
 ! Last modified: 2026-11-23
 ! https://github.com/atikaazahra/adguard-blocklish
 !
+@@||basketballcourt.xyz^$important
+@@||frenchfragrance.com^$important
 @@||aaplimg.com^$important
 @@||apple-dns.net^$important
 @@||cdn-apple.com^$important
