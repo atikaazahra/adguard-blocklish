@@ -1,5 +1,5 @@
 ! Description: Open-source all whitelist domain (Cleaned & Updated)
-! Last modified: 2026-11-24
+! Last modified: 2026-11-23
 ! https://github.com/atikaazahra/adguard-blocklish
 !
 @@||livetech.live.shopee.co.id^$important
