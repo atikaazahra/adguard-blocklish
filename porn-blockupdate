@@ -1,11 +1,13 @@
 ! Description: all-blocked-domain
-! Last modified: 2026-11-24
+! Last modified: 2026-11-23
 ! https://github.com/atikaazahra/adguard-blocklish
 ! add key supporters
 !
 /^[a-z0-9-\.]+o{5,}gle\.com$/$important
 /192\.168\.1\.1$/$important
 !
+||e79vktxgd.co^$important
+||7gc31blwkk.dev^$important
 ||neofap.com^$important
 ||neofap.*^$important
 ||oxwbyrwv.cc^$important
@@ -202,7 +204,6 @@
 ||341cb134caf.com^$important
 ||cercle-prive.site^$important
 ||clctr.ltguevmavv.com^$important
-||posafecto.com^$important
 ||6ctuslwqz.com^$important
 ||jnetotovanson.com^$important
 ||teslatotolink.org^$important
