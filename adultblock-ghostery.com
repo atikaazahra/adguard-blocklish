@@ -83,7 +83,6 @@
 @@||api.onesignal.com^$important
 @@||api.pixelcut.app^$important
 @@||api2.pixelcut.app^$important
-@@||api.wattpad.com^$important
 @@||eprints.polsri.ac.id^$important
 @@||ho.website.rba.gov.au^$important
 @@||realmbeacon.co.uk^$important
@@ -262,7 +261,6 @@
 @@||nexovatica.com^$important
 @@||tumogle.tech^$important
 @@||aiadsapp.net^$important
-@@||like.video^$important
 @@||rylkngdm.com^$important
 @@||ndi.tv^$important
 @@||teknoflux.com^$important
@@ -378,7 +376,6 @@
 @@||cloudlinks.cn^$important
 @@||heytapdl.com^$important
 @@||xiaomi.net^$important
-@@||mioffice.cn^$important
 @@||samsungrs.com^$important
 @@||crashlytics.com^$important
 @@||app-measurement.com^$important
@@ -494,8 +491,6 @@
 @@||fbcdn.net^$important
 @@||fbsbx.com^$important
 @@||gcdn.co^$important
-@@||gvt1.com^$important
-@@||gvt2.com^$important
 @@||ibyteimg.com^$important
 @@||ibytedtos.com^$important
 @@||jsdelivr.net^$important
@@ -542,7 +537,6 @@
 @@||google.co.th^$important
 @@||google.co.uk^$important
 @@||google.co.za^$important
-@@||google.com^$important
 @@||google.com.ar^$important
 @@||google.com.au^$important
 @@||google.com.br^$important
@@ -561,7 +555,6 @@
 @@||google.pl^$important
 @@||google.ru^$important
 @@||google.se^$important
-@@||googleapis.com^$important
 @@||googlemail.com^$important
 @@||googlesyndication.com^$important
 @@||googleusercontent.com^$important
@@ -578,7 +571,6 @@
 @@||icloud-content.com^$important
 @@||icloud.com^$important
 @@||live.com^$important
-@@||microsoft.com^$important
 @@||office.com^$important
 @@||onedrive.com^$important
 @@||outlook.com^$important
@@ -664,7 +656,6 @@
 @@||shopee.sg^$important
 @@||shopeemobile.com^$important
 @@||shopeepay.co.id^$important
-@@||tokopedia.com^$important
 @@||tokopedia.link^$important
 @@||tokopedia.net^$important
 @@||xendit.co^$important
@@ -717,7 +708,6 @@
 @@||kemdikbud.go.id^$important
 @@||muhammadiyah.or.id^$important
 @@||nu.or.id^$important
-@@||pacitankab.go.id^$important
 @@||pajak.go.id^$important
 @@||simpatika.kemenag.go.id^$important
 @@||siska.kemenag.go.id^$important
@@ -729,7 +719,6 @@
 @@||freefiremobile.com^$important
 @@||gog-statics.com^$important
 @@||gog.com^$important
-@@||minecraft.net^$important
 @@||origin.com^$important
 @@||riotgames.com^$important
 @@||roblox.com^$important
@@ -763,7 +752,6 @@
 @@||baidu.com^$important
 @@||canva.com^$important
 @@||capcut.com^$important
-@@||capcutapi.com^$important
 @@||fast.com^$important
 @@||firebaseio.com^$important
 @@||halodoc.com^$important
@@ -776,12 +764,10 @@
 @@||mozilla.org^$important
 @@||protonmail.com^$important
 @@||ptyg.gitv.tv^$important
-@@||snackvideo.in^$important
 @@||speedtest.net^$important
 @@||tencent.com^$important
 @@||tiktok.com^$important
 @@||tiktokcdn-us.com^$important
-@@||tiktokcdn.com^$important
 @@||tiktokshop.com^$important
 @@||tiktokv.com^$important
 @@||ucweb.com^$important
