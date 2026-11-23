@@ -2,6 +2,9 @@
 ! Last modified: 2026-11-24
 ! https://github.com/atikaazahra/adguard-blocklish
 !
+@@||livetech.live.shopee.co.id^$important
+@@||live.shopee.co.id^$important
+@@||ap.ime.cootek.com^$important
 @@||samsungcloudsolution.com^$important
 @@||samsungdm.com^$important
 @@||samsungconsent.com^$important
