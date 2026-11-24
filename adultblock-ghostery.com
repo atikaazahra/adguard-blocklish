@@ -1,7 +1,49 @@
 ! Description: Open-source all whitelist domain (Cleaned & Updated)
-! Last modified: 2026-11-23
+! Last modified: 2026-11-24
 ! https://github.com/atikaazahra/adguard-blocklish
 !
+@@||contentsquare.net^$important
+@@||fyber.com^$important
+@@||lge.com^$important
+@@||safebrowsing.apple^$important
+@@||lgtvcommon.com^$important
+@@||mapbox.com^$important
+@@||umeng.com^$important
+@@||amplitude.com^$important
+@@||launchdarkly.com^$important
+@@||app-analytics-services.com^$important
+@@||gvt3.com^$important
+@@||nflximg.com^$important
+@@||gssprt.jp^$important
+@@||send.microad.jp^$important
+@@||openx.net^$important
+@@||ladsp.com^$important
+@@||amazontrust.com^$important
+@@||rfihub.com^$important
+@@||mega.co.nz^$important
+@@||creativecdn.com^$important
+@@||pstatic.net^$important
+@@||sharepoint.com^$important
+@@||staticflickr.com^$important
+@@||measure.office.net^$important
+@@||scorecardresearch.com^$important
+@@||bootstrapcdn.com^$important
+@@||amazon.com.mx^$important
+@@||one.impact-ad.jp^$important
+@@||socdm.com^$important
+@@||tremorhub.com^$important
+@@||turnersdiesel.com^$important
+@@||themalbechouse.com^$important
+@@||lecturekharido.com^$important
+@@||beltwaytruckparts.com^$important
+@@||capacitychemical.com^$important
+@@||siriyoosanskriti.com^$important
+@@||bostonaircontrols.com^$important
+@@||blazingadblock.com^$important
+@@||tyfreightforwarder.com^$important
+@@||srisaiorganicfoods.com^$important
+@@||century21colombia.com^$important
+@@||mulewosizeseha.com^$important
 @@||livetech.live.shopee.co.id^$important
 @@||live.shopee.co.id^$important
 @@||ap.ime.cootek.com^$important
