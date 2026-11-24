@@ -1,7 +1,20 @@
 ! Description: Open-source all whitelist domain (Cleaned & Updated)
-! Last modified: 2026-11-24
+! Last modified: 2026-11-25
 ! https://github.com/atikaazahra/adguard-blocklish
 !
+@@||dns.adguard.com^$important
+@@||sg.mmstat.com^$important
+@@||api.ipinfo.io^$important
+@@||sg.mmstat.com^$important
+@@||241nygn31605.statuspage.io^$important
+@@||cdn.ampproject.org^$important
+@@||s10.histats.com^$important
+@@||dns-tunnel-check.googlezip.net^$important
+@@||gos-api.gos-gsp.io^$important
+@@||sdk.id-01.braze.com^$important
+@@||ocsp.edge.digicert.com^$important
+@@||api.vk.com^$important
+@@||cdn-content.ampproject.org^$important
 @@||evergage.com^$important
 @@||smartadserver.com^$important
 @@||demdex.net^$important
