@@ -3,9 +3,13 @@
 ! https://github.com/atikaazahra/adguard-blocklish
 ! add key supporters
 !
+/^[a-z0-9]{12,18}\.(com|net|co|dev|cc|xyz|top|biz|icu|games|info|live|io|oi|cu|mobi|cn)$/$important
+!
 /^[a-z0-9-\.]+o{5,}gle\.com$/$important
+!
 /192\.168\.1\.1$/$important
 !
+||7l02v8uo4.net^$important
 ||e79vktxgd.co^$important
 ||7gc31blwkk.dev^$important
 ||neofap.com^$important
