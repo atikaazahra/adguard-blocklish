@@ -2,6 +2,25 @@
 ! Last modified: 2026-11-24
 ! https://github.com/atikaazahra/adguard-blocklish
 !
+@@||evergage.com^$important
+@@||smartadserver.com^$important
+@@||demdex.net^$important
+@@||omtrdc.net^$important
+@@||shopifysvc.com^$important
+@@||sharethis.com^$important
+@@||samsungpositioning.com^$important
+@@||blismedia.com^$important
+@@||api.mi-img.com^$important
+@@||crazyegg.com^$important
+@@||virtualearth.net^$important
+@@||sc-gw.com^$important
+@@||minerva.devices.a2z.com^$important
+@@||msn.com^$important
+@@||googleadservices.com^$important
+@@||mobilelegends.com^$important
+@@||accountmtapi.mobilelegends.com^$important
+@@||a.run.app^$important
+@@||samsungknox.com^$important
 @@||contentsquare.net^$important
 @@||fyber.com^$important
 @@||lge.com^$important
