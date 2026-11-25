@@ -2,6 +2,17 @@
 ! Last modified: 2026-11-25
 ! https://github.com/atikaazahra/adguard-blocklish
 !
+@@||yimg.com^$important
+@@||mzstatic.com^$important
+@@||xtracloud.net^$important
+@@||iqiyi.com^$important
+@@||ebelanja.id^$important
+@@||belanjapasti.com^$important
+@@||orderonline.id^$important
+@@||neworderonline.com^$important
+@@||videobeladiri.com^$important
+@@||onebookingonline.com^$important
+@@||zylofonmediaonline.com^$important
 @@||dns.adguard.com^$important
 @@||sg.mmstat.com^$important
 @@||api.ipinfo.io^$important
