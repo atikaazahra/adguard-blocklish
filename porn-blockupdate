@@ -1,17 +1,15 @@
 ! Description: all-blocked-domain
-! Last modified: 2026-11-23
+! Last modified: 2026-11-25
 ! https://github.com/atikaazahra/adguard-blocklish
 ! add key supporters
 !
-/^[a-z0-9]{12,18}\.(com|net|co|dev|cc|xyz|top|biz|icu|games|info|live|io|oi|cu|mobi|cn)$/$important
+/^[a-z0-9]{11,18}\.(com|net|co|dev|cc|xyz|top|biz|icu|games|info|live|io|oi|cu|mobi|cn)$/$important
 !
 /^[a-z0-9-\.]+o{5,}gle\.com$/$important
 !
 /192\.168\.1\.1$/$important
 !
-||9bgmuwgv9v6.dev^$important
 ||xggd&f|x&gzo^$important
-||t5w8xh8gf7e.co^$important
 ||zwniapdggxpsxev^$important
 ||s89uc5btm.dev^$important
 ||7l02v8uo4.net^$important
@@ -20,18 +18,9 @@
 ||neofap.com^$important
 ||neofap.*^$important
 ||oxwbyrwv.cc^$important
-||drtdzrixqzemyhfj.net^$important
-||xyqdy03evnb.com^$important
-||zjukj6yrux50.co^$important
-||8rsc3qtqvspk.dev^$important
-||mef4bot7r2gw3avod.top^$important
-||aenbt7a0fed3cf50.com^$important
 ||k6zix6.com^$important
-||yfez8stioy7.net^$important
 ||155xfinishpy92x6yard.xyz^$important
-||5ti6te9rdjn.com^$important
 ||btz8f79rpw.co^$important
-||fzxr2ykg0i36.dev^$important
 ||8b358ik9.co^$important
 ||fakevivo.com.cn^$important
 ||ffxsso.com^$important
@@ -40,12 +29,10 @@
 ||indoav.com^$important
 ||dada.fans^$important
 ||sbbol1011play.sbs^$important
-||playaindg12.xyz^$important
 ||todotttdk576.cfd^$important
 ||asupanrare.com^$important
 ||2696515443-pr0fscgp.bttss.com^$important
 ||oborozukp.vip^$important
-||gasipedibexide.com^$important
 ||he2o9t.com^$important
 ||kelasmalam.com^$important
 ||kupumalam.com^$important
