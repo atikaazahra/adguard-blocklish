@@ -1,8 +1,9 @@
 ! Description: Open-source all whitelist domain (Cleaned & Updated)
-! Last modified: 2026-11-25
+! Last modified: 2026-11-27
 ! https://github.com/atikaazahra/adguard-blocklish
 !
 @@||yimg.com^$important
+@@||oslab.shalltry.com^$important
 @@||mzstatic.com^$important
 @@||xtracloud.net^$important
 @@||iqiyi.com^$important
