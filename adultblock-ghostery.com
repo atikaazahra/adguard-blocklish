@@ -2,6 +2,8 @@
 ! Last modified: 2026-11-27
 ! https://github.com/atikaazahra/adguard-blocklish
 !
+@@||yahoo.com^$important
+@@||zoho.com^$important
 @@||firefox.com^$important
 @@||gopath.id^$important
 @@||prolink168.com^$important
@@ -52,7 +54,6 @@
 @@||sbixby.com^$important
 @@||onesignal.com^$important
 @@||polsri.ac.id^$important
-@@||gov.au^$important
 @@||realmbeacon.co.uk^$important
 @@||soccr.cloud^$important
 @@||xmrview.com^$important
@@ -62,8 +63,7 @@
 @@||nolatec.org^$important
 @@||healthypig.com.hk^$important
 @@||liveparking.eu^$important
-@@||short.michat.net^$important
-@@||short.im-gb.com^$important
+@@||michat.net^$important
 @@||im-gb.com^$important
 @@||sailfishx.live^$important
 @@||videq-l.ink^$important
@@ -73,8 +73,7 @@
 @@||tchspt.com^$important
 @@||oaistatic.com^$important
 @@||claude.ai^$important
-@@||grok.com^$important
-@@||rms.common.cn^$important
+@@||common.cn^$important
 @@||akademivo.website^$important
 @@||supabase.co^$important
 @@||componentsearchengine.com^$important
@@ -85,14 +84,12 @@
 @@||larksuite.com^$important
 @@||feishu.cn^$important
 @@||awsglobalaccelerator.com^$important
-@@||on.aws^$important
 @@||konami.net^$important
 @@||taobao.com^$important
 @@||alicdn.com^$important
 @@||alipay-eco.com^$important
 @@||amap.com^$important
 @@||doubleverify.com^$important
-@@||dv.tech^$important
 @@||applovin.com^$important
 @@||applvn.com^$important
 @@||adjoe.zone^$important
@@ -112,7 +109,6 @@
 @@||starmakerstudios.com^$important
 @@||ndcpp-os.com^$important
 @@||otomatis.vip^$important
-@@||iili.io^$important
 @@||imoim.net^$important
 @@||inmobi.com^$important
 @@||appcenter.ms^$important
@@ -171,7 +167,6 @@
 @@||vervegroupinc.net^$important
 @@||stripe.com^$important
 @@||guardease.com^$important
-@@||mli.asia^$important
 @@||boomplaymusic.com^$important
 @@||bodyevey.com^$important
 @@||safedk.com^$important
@@ -208,7 +203,6 @@
 @@||allsaints.tv^$important
 @@||aimarx.com^$important
 @@||igamecj.com^$important
-@@||rj.link^$important
 @@||nexovatica.com^$important
 @@||tumogle.tech^$important
 @@||aiadsapp.net^$important
@@ -406,8 +400,6 @@
 @@||onebookingonline.com^$important
 @@||zylofonmediaonline.com^$important
 @@||adguard.com^$important
-@@||sg.mmstat.com^$important
-@@||api.ipinfo.io^$important
 @@||241nygn31605.statuspage.io^$important
 @@||ampproject.org^$important
 @@||s10.histats.com^$important
@@ -422,15 +414,13 @@
 @@||sharethis.com^$important
 @@||samsungpositioning.com^$important
 @@||blismedia.com^$important
-@@||api.mi-img.com^$important
+@@||mi-img.com^$important
 @@||crazyegg.com^$important
 @@||virtualearth.net^$important
-@@||sc-gw.com^$important
 @@||devices.a2z.com^$important
 @@||msn.com^$important
 @@||googleadservices.com^$important
 @@||mobilelegends.com^$important
-@@||a.run.app^$important
 @@||samsungknox.com^$important
 @@||contentsquare.net^$important
 @@||fyber.com^$important
@@ -522,7 +512,6 @@
 @@||myonlinereading.com^$important
 @@||upg-plastic.com^$important
 @@||biliintl.com^$important
-@@||vk.ru^$important
 @@||sofascore.com^$important
 @@||sofascore1.com^$important
 @@||strava.com^$important
@@ -567,7 +556,7 @@
 @@||tokopediax.com^$important
 @@||adjust.com^$important
 @@||jquery.com^$important
-@@||.bootstrapcdn.com^$important
+@@||bootstrapcdn.com^$important
 @@||virtualbox.org^$important
 @@||asiaapix.com^$important
 @@||nexverse.ai^$important
@@ -575,10 +564,9 @@
 @@||pixelcut.app^$important
 @@||rba.gov.au^$important
 @@||michat.net^$important
-@@||hokibagus.club^$important
 @@||dingtalk.com^$important
 @@||website^$important
-@@||amsungcloudsolution.com^$important
+@@||samsungcloudsolution.com^$important
 @@||dpm.demdex.net^$important
 @@||medallia.com^$important
 @@||custommojilab.com^$important
@@ -644,15 +632,14 @@
 @@||quad9.net^$important
 @@||opendns.com^$important
 @@||pool.ntp.org^$important
-@@||time.google.com^$important
-@@||time.cloudflare.com^$important
+@@||google.com^$important
+@@||cloudflare.com^$important
 @@||time.apple.com^$important
-@@||ntp.ubuntu.com^$important
-@@||ocsp.pki.goog^$important
-@@||crl.microsoft.com^$important
+@@||ubuntu.com^$important
+@@||microsoft.com^$important
 @@||ocsp.apple.com^$important
-@@||ctldl.windowsupdate.com^$important
-@@||www.msftconnecttest.com^$important
+@@||windowsupdate.com^$important
+@@||msftconnecttest.com^$important
 @@||connectivitycheck.gstatic.com^$important
 @@||captive.apple.com^$important
 @@||ggpht.com^$important
@@ -708,7 +695,6 @@
 @@||onedrive.com^$important
 @@||outlook.com^$important
 @@||push.apple.com^$important
-@@||windowsupdate.com^$important
 @@||xbox.com^$important
 @@||discord.com^$important
 @@||discord.gg^$important
@@ -899,5 +885,3 @@
 @@||tiktokshop.com^$important
 @@||tiktokv.com^$important
 @@||ucweb.com^$important
-@@||yahoo.com^$important
-@@||zoho.com^$important
